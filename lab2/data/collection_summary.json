@@ -1,0 +1,22 @@
+{
+  "records": 363,
+  "pages": 37,
+  "raw_cards": 363,
+  "duplicates_removed": 0,
+  "countries": 37,
+  "founders_unknown": 33,
+  "website_unknown": 1,
+  "funding_unknown": 15,
+  "foundation_year_unknown": 2,
+  "precise_dates_known": 0,
+  "currency_labels": [
+    "$",
+    "A$",
+    "CN¥",
+    "R$",
+    "¥",
+    "€"
+  ],
+  "sample_rule": "Detailed cards in country pages; catalogue order; stop after at least 360 unique records.",
+  "source": "Failory HTML country lists; not a representative sample or independently verified financial data."
+}

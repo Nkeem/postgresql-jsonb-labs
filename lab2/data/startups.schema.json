@@ -1,0 +1,38 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Startup catalogue snapshot: variant 14",
+  "type": "array",
+  "minItems": 301,
+  "items": {
+    "type": "object",
+    "additionalProperties": false,
+    "required": ["id", "name", "founded_year", "foundation_date", "foundation_precision", "country", "headquarters", "website", "website_raw", "sectors", "founders", "raised_money", "funding_stage", "team_size_raw", "investors", "source_urls", "retrieved_at"],
+    "properties": {
+      "id": {"type": "string", "pattern": "^startup_[0-9a-f]{16}$"},
+      "name": {"type": "string", "minLength": 1},
+      "founded_year": {"type": ["integer", "null"], "minimum": 1800, "maximum": 2026},
+      "foundation_date": {"type": "null", "description": "The source provides a year, not an exact calendar date."},
+      "foundation_precision": {"enum": ["year", "unknown"]},
+      "country": {"type": "string", "minLength": 1},
+      "headquarters": {"type": ["string", "null"]},
+      "website": {"type": ["string", "null"], "format": "uri"},
+      "website_raw": {"type": ["string", "null"]},
+      "sectors": {"type": "array", "uniqueItems": true, "items": {"type": "string", "minLength": 1}},
+      "founders": {"type": "array", "uniqueItems": true, "items": {"type": "string", "minLength": 1}},
+      "investors": {"type": "array", "uniqueItems": true, "items": {"type": "string", "minLength": 1}},
+      "raised_money": {
+        "type": "object", "additionalProperties": false,
+        "required": ["amount", "currency_label", "raw"],
+        "properties": {
+          "amount": {"type": ["number", "null"], "minimum": 0},
+          "currency_label": {"type": ["string", "null"], "description": "Literal source label, not an inferred ISO currency code. Bare $ remains $."},
+          "raw": {"type": ["string", "null"]}
+        }
+      },
+      "funding_stage": {"type": ["string", "null"]},
+      "team_size_raw": {"type": ["string", "null"]},
+      "source_urls": {"type": "array", "minItems": 1, "uniqueItems": true, "items": {"type": "string", "format": "uri"}},
+      "retrieved_at": {"type": "string", "format": "date-time"}
+    }
+  }
+}

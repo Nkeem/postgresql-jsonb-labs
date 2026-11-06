@@ -1,0 +1,261 @@
+[
+  {
+    "url": "https://www.failory.com/startups/united-states",
+    "file": "united-states.html",
+    "retrieved_at": "2026-11-02T15:45:21+00:00",
+    "sha256": "a55f8e4b55d96bfa68656745f7c6991cb955bdf058f8df712982d4ffd0567ea8",
+    "detailed_cards": 10
+  },
+  {
+    "url": "https://www.failory.com/startups/united-kingdom",
+    "file": "united-kingdom.html",
+    "retrieved_at": "2026-11-02T15:49:10+00:00",
+    "sha256": "d8842d9c4e732b45a48fefd827ac319b23e5dbce11ee936eac3cb7f0b110a647",
+    "detailed_cards": 10
+  },
+  {
+    "url": "https://www.failory.com/startups/india",
+    "file": "india.html",
+    "retrieved_at": "2026-11-02T15:49:11+00:00",
+    "sha256": "88f559674db7f2d5a8d3ed34d06c01d17c3ee409d3d128d184b6ac40207c8633",
+    "detailed_cards": 10
+  },
+  {
+    "url": "https://www.failory.com/startups/germany",
+    "file": "germany.html",
+    "retrieved_at": "2026-11-02T15:49:12+00:00",
+    "sha256": "666893724d23b0e9b7a76d06fbb27ec0c3b57ccb5012e13c584aded5734b9bd3",
+    "detailed_cards": 10
+  },
+  {
+    "url": "https://www.failory.com/startups/france",
+    "file": "france.html",
+    "retrieved_at": "2026-11-02T15:49:14+00:00",
+    "sha256": "dc3085d1ff6aca8a1b6372d3972863db16262a02071aca22857f8aec0541682d",
+    "detailed_cards": 10
+  },
+  {
+    "url": "https://www.failory.com/startups/canada",
+    "file": "canada.html",
+    "retrieved_at": "2026-11-02T15:49:16+00:00",
+    "sha256": "68eb9dc2851edf7748d5327cac5d293861c9069574529694b71b027a3907e75c",
+    "detailed_cards": 10
+  },
+  {
+    "url": "https://www.failory.com/startups/australia",
+    "file": "australia.html",
+    "retrieved_at": "2026-11-02T15:49:17+00:00",
+    "sha256": "fa53d92c00c39506194d56db77d10575517ad33dcbbd52eba6f29f1d0d1faa53",
+    "detailed_cards": 10
+  },
+  {
+    "url": "https://www.failory.com/startups/israel",
+    "file": "israel.html",
+    "retrieved_at": "2026-11-02T15:49:19+00:00",
+    "sha256": "1438dc08f50503dc41fe8c84c749544a03d22d156412a0ba8c31b6d6c9288b84",
+    "detailed_cards": 10
+  },
+  {
+    "url": "https://www.failory.com/startups/singapore",
+    "file": "singapore.html",
+    "retrieved_at": "2026-11-02T15:49:21+00:00",
+    "sha256": "e350efae48033f672edfb9bf32094613af2533fd20ebe3f4acb1facb2a80cfb2",
+    "detailed_cards": 10
+  },
+  {
+    "url": "https://www.failory.com/startups/the-netherlands",
+    "file": "the-netherlands.html",
+    "retrieved_at": "2026-11-02T15:49:22+00:00",
+    "sha256": "2765a9e1d282f1861cb9479292632f2def21d3172a68b721a2f19455ab2942cb",
+    "detailed_cards": 10
+  },
+  {
+    "url": "https://www.failory.com/startups/sweden",
+    "file": "sweden.html",
+    "retrieved_at": "2026-11-02T15:49:24+00:00",
+    "sha256": "d461d909e5f98d6439092442b71b3df3162c1a4570ac6a29634e5d3eaeb09215",
+    "detailed_cards": 10
+  },
+  {
+    "url": "https://www.failory.com/startups/switzerland",
+    "file": "switzerland.html",
+    "retrieved_at": "2026-11-02T15:49:25+00:00",
+    "sha256": "e8552ddf1d303b516e31a31878418f74478f0a6f297316d94fe3926182f9d1b5",
+    "detailed_cards": 8
+  },
+  {
+    "url": "https://www.failory.com/startups/spain",
+    "file": "spain.html",
+    "retrieved_at": "2026-11-02T15:49:27+00:00",
+    "sha256": "a4eca349022962ef7f1e59dac4efd50b25a9758e34f2fa075603e49616b84c8f",
+    "detailed_cards": 10
+  },
+  {
+    "url": "https://www.failory.com/startups/italy",
+    "file": "italy.html",
+    "retrieved_at": "2026-11-02T15:49:28+00:00",
+    "sha256": "9955da71f3e2d2fa6b5fc6b2d71d2ffc8dae9dd26f09deb958ca8f297618b4b4",
+    "detailed_cards": 7
+  },
+  {
+    "url": "https://www.failory.com/startups/brazil",
+    "file": "brazil.html",
+    "retrieved_at": "2026-11-02T15:49:30+00:00",
+    "sha256": "1984b8aeb1747421e3d9bcdacdde333a7e0ac0db7890e2b7f745ed465a8de6b2",
+    "detailed_cards": 10
+  },
+  {
+    "url": "https://www.failory.com/startups/mexico",
+    "file": "mexico.html",
+    "retrieved_at": "2026-11-02T15:49:32+00:00",
+    "sha256": "d6aaf03e9e35c067a3d2855a38cf4d9e4cbff0a55845142bc6d26306b4d5461f",
+    "detailed_cards": 10
+  },
+  {
+    "url": "https://www.failory.com/startups/argentina",
+    "file": "argentina.html",
+    "retrieved_at": "2026-11-02T15:49:33+00:00",
+    "sha256": "aaaf9a7510b2fb84b59eff57fc2adf6f70be21f1d879368d2b5342a725c09e64",
+    "detailed_cards": 9
+  },
+  {
+    "url": "https://www.failory.com/startups/chile",
+    "file": "chile.html",
+    "retrieved_at": "2026-11-02T15:49:35+00:00",
+    "sha256": "f424d272dc85d9515ca31d8f022ee57930efb875512ab720fdddefed81d7173f",
+    "detailed_cards": 10
+  },
+  {
+    "url": "https://www.failory.com/startups/colombia",
+    "file": "colombia.html",
+    "retrieved_at": "2026-11-02T15:49:36+00:00",
+    "sha256": "f124d789571869503b3388334f0ce843a484e3a201ddfac692f099d2edf88198",
+    "detailed_cards": 10
+  },
+  {
+    "url": "https://www.failory.com/startups/indonesia",
+    "file": "indonesia.html",
+    "retrieved_at": "2026-11-02T15:49:38+00:00",
+    "sha256": "0fdba00acd036ccdc1cd2dbf4b38b5e60a700c846347d1991e29a0fa62462604",
+    "detailed_cards": 10
+  },
+  {
+    "url": "https://www.failory.com/startups/malaysia",
+    "file": "malaysia.html",
+    "retrieved_at": "2026-11-02T15:49:39+00:00",
+    "sha256": "ce395dd71082edb12b2eed4852ab0c0027acd25e34bdda1c1c992e3ce1212d98",
+    "detailed_cards": 10
+  },
+  {
+    "url": "https://www.failory.com/startups/vietnam",
+    "file": "vietnam.html",
+    "retrieved_at": "2026-11-02T15:49:41+00:00",
+    "sha256": "95d2959fa1da8fcbfefd107dc54b8e4aef36b318f869b72bda81c40ca25f1675",
+    "detailed_cards": 10
+  },
+  {
+    "url": "https://www.failory.com/startups/thailand",
+    "file": "thailand.html",
+    "retrieved_at": "2026-11-02T15:49:42+00:00",
+    "sha256": "88a3168b5456218035cdaba7899332cd9c54d7666030899fe74205518ba64bd7",
+    "detailed_cards": 10
+  },
+  {
+    "url": "https://www.failory.com/startups/philippines",
+    "file": "philippines.html",
+    "retrieved_at": "2026-11-02T15:49:44+00:00",
+    "sha256": "87de2adc5f6446e29c0e93508c63e8b4f3a9732b447014555e6bed6343aa8af5",
+    "detailed_cards": 10
+  },
+  {
+    "url": "https://www.failory.com/startups/japan",
+    "file": "japan.html",
+    "retrieved_at": "2026-11-02T15:49:45+00:00",
+    "sha256": "7b886fe652857b3348c95200a6a9cb7e340d29675195824ee4d637cae874e781",
+    "detailed_cards": 10
+  },
+  {
+    "url": "https://www.failory.com/startups/south-korea",
+    "file": "south-korea.html",
+    "retrieved_at": "2026-11-02T15:49:47+00:00",
+    "sha256": "3243eabf78f6edaad73337387545d94d59450d1ca744d548325f8e2d603163ab",
+    "detailed_cards": 10
+  },
+  {
+    "url": "https://www.failory.com/startups/china",
+    "file": "china.html",
+    "retrieved_at": "2026-11-02T15:49:49+00:00",
+    "sha256": "176c3492fbc6e1d468012f46dc932a35727abdde042d6b3326449fe1d7b19d11",
+    "detailed_cards": 10
+  },
+  {
+    "url": "https://www.failory.com/startups/taiwan",
+    "file": "taiwan.html",
+    "retrieved_at": "2026-11-02T15:49:50+00:00",
+    "sha256": "fc039b00d0d5b39422be93287232f74e20ff0f3f309f23f7ee1a37394a5025f1",
+    "detailed_cards": 10
+  },
+  {
+    "url": "https://www.failory.com/startups/new-zealand",
+    "file": "new-zealand.html",
+    "retrieved_at": "2026-11-02T15:49:52+00:00",
+    "sha256": "c4413fd6b22e4fbf2f07b41486ec9b45b29cd9e4e502e3ca276ad7ddfa57bb5a",
+    "detailed_cards": 10
+  },
+  {
+    "url": "https://www.failory.com/startups/finland",
+    "file": "finland.html",
+    "retrieved_at": "2026-11-02T15:49:54+00:00",
+    "sha256": "8269b21d7a1a8c270fb1443403193cfa4bc3b6ff523872044db70efad39b6774",
+    "detailed_cards": 10
+  },
+  {
+    "url": "https://www.failory.com/startups/norway",
+    "file": "norway.html",
+    "retrieved_at": "2026-11-02T15:49:57+00:00",
+    "sha256": "baabe8cfbbe366cdc9552c4bfb4c51e5fbdd017dd3115ae176211e3dbc5edc11",
+    "detailed_cards": 10
+  },
+  {
+    "url": "https://www.failory.com/startups/ireland",
+    "file": "ireland.html",
+    "retrieved_at": "2026-11-02T15:50:00+00:00",
+    "sha256": "dc76f149d0bf929ee2e36a8f94e7aa032494a4cec12655a13eaae1d4b0efb73d",
+    "detailed_cards": 9
+  },
+  {
+    "url": "https://www.failory.com/startups/belgium",
+    "file": "belgium.html",
+    "retrieved_at": "2026-11-02T15:50:01+00:00",
+    "sha256": "a2ff8f3daad263f886672b6d755c99c1569142f4934d52747eb54a9a7d03454d",
+    "detailed_cards": 10
+  },
+  {
+    "url": "https://www.failory.com/startups/austria",
+    "file": "austria.html",
+    "retrieved_at": "2026-11-02T15:50:03+00:00",
+    "sha256": "ecdd23768c6d24ea8acf9234f357358c0994412305f03b0dd9f12fcf9739ab41",
+    "detailed_cards": 10
+  },
+  {
+    "url": "https://www.failory.com/startups/poland",
+    "file": "poland.html",
+    "retrieved_at": "2026-11-02T15:50:04+00:00",
+    "sha256": "ed3bd7bd5e8940cccfb337efd7c320bd6cfdf6f05e90847c0c1476ad78913aae",
+    "detailed_cards": 10
+  },
+  {
+    "url": "https://www.failory.com/startups/portugal",
+    "file": "portugal.html",
+    "retrieved_at": "2026-11-02T15:50:06+00:00",
+    "sha256": "7dab86b3fbd158eb70312e0f5bea8073bfdab3e38692a56faa13881f9a3a7874",
+    "detailed_cards": 10
+  },
+  {
+    "url": "https://www.failory.com/startups/estonia",
+    "file": "estonia.html",
+    "retrieved_at": "2026-11-02T15:50:08+00:00",
+    "sha256": "14bda3fb7b440c166444d35360ed619ead6a28d874d0b8f073bd1383014ef49e",
+    "detailed_cards": 10
+  }
+]

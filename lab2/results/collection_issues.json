@@ -1,0 +1,9 @@
+{
+  "failed_pages": [
+    {
+      "url": "https://www.failory.com/startups/denmark",
+      "error": "No identifying fields in https://www.failory.com/startups/denmark, card 3"
+    }
+  ],
+  "duplicate_conflicts": []
+}

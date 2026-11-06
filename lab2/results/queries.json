@@ -1,0 +1,3669 @@
+{
+  "Q1": [
+    {
+      "total_startups": 363,
+      "founders_unknown": 33,
+      "funding_unknown": 15
+    }
+  ],
+  "Q2": [
+    {
+      "name": "Weaver Services",
+      "founded_year": 2024,
+      "country": "India",
+      "website": null
+    },
+    {
+      "name": "Akasa Air",
+      "founded_year": 2021,
+      "country": "India",
+      "website": "https://www.akasaair.com/"
+    },
+    {
+      "name": "Rocket",
+      "founded_year": 2021,
+      "country": "India",
+      "website": "https://www.rocket.new/"
+    },
+    {
+      "name": "Zepto",
+      "founded_year": 2021,
+      "country": "India",
+      "website": "https://www.zeptonow.com/"
+    },
+    {
+      "name": "Jupiter",
+      "founded_year": 2019,
+      "country": "India",
+      "website": "https://www.jupiter.money/"
+    },
+    {
+      "name": "Polygon",
+      "founded_year": 2017,
+      "country": "India",
+      "website": "https://polygon.technology/"
+    },
+    {
+      "name": "Rapido",
+      "founded_year": 2015,
+      "country": "India",
+      "website": "https://www.rapido.bike/"
+    }
+  ],
+  "Q3": [
+    {
+      "name": "1X",
+      "country": "Norway",
+      "sectors": [
+        "AI",
+        "Manufacturing",
+        "Robotics"
+      ]
+    },
+    {
+      "name": "AI Hay",
+      "country": "Vietnam",
+      "sectors": [
+        "AI",
+        "Chatbot",
+        "Generative AI",
+        "ML",
+        "NLP",
+        "Search Engine"
+      ]
+    },
+    {
+      "name": "Acronis",
+      "country": "Switzerland",
+      "sectors": [
+        "AI",
+        "Cloud Data Services",
+        "Cloud Security",
+        "Cyber Security",
+        "Software"
+      ]
+    },
+    {
+      "name": "Ada",
+      "country": "Canada",
+      "sectors": [
+        "AI",
+        "Chatbot",
+        "Intelligent Systems",
+        "ML",
+        "SaaS",
+        "Software"
+      ]
+    },
+    {
+      "name": "Agibot",
+      "country": "China",
+      "sectors": [
+        "AI",
+        "Manufacturing",
+        "Robotics"
+      ]
+    },
+    {
+      "name": "Aidoc",
+      "country": "Israel",
+      "sectors": [
+        "AI",
+        "Health Care",
+        "ML",
+        "Medical Device"
+      ]
+    },
+    {
+      "name": "Anthropic",
+      "country": "United States",
+      "sectors": [
+        "AI",
+        "Generative AI",
+        "ML"
+      ]
+    },
+    {
+      "name": "Arvo",
+      "country": "Brazil",
+      "sectors": [
+        "AI",
+        "Health Care"
+      ]
+    },
+    {
+      "name": "Attio",
+      "country": "United Kingdom",
+      "sectors": [
+        "AI",
+        "CRM",
+        "SaaS",
+        "Software"
+      ]
+    },
+    {
+      "name": "Auror",
+      "country": "New Zealand",
+      "sectors": [
+        "AI",
+        "Business Intelligence",
+        "Enterprise Software",
+        "Real Time",
+        "Security",
+        "Software"
+      ]
+    },
+    {
+      "name": "Axelera AI",
+      "country": "Netherlands",
+      "sectors": [
+        "AI",
+        "ML",
+        "Semiconductor",
+        "Software"
+      ]
+    },
+    {
+      "name": "Bioptimus",
+      "country": "France",
+      "sectors": [
+        "AI",
+        "Biotechnology",
+        "Generative AI"
+      ]
+    },
+    {
+      "name": "Black Forest Labs",
+      "country": "Germany",
+      "sectors": [
+        "AI",
+        "Generative AI",
+        "Media and Entertainment",
+        "Software"
+      ]
+    },
+    {
+      "name": "Boost AI",
+      "country": "Norway",
+      "sectors": [
+        "AI",
+        "Customer Service",
+        "ML",
+        "Software",
+        "Virtual Assistant"
+      ]
+    },
+    {
+      "name": "Bruna by Altum Lab",
+      "country": "Chile",
+      "sectors": [
+        "AgTech",
+        "Aquaculture",
+        "AI",
+        "B2B",
+        "Food Processing",
+        "Industrial",
+        "Predictive Analytics",
+        "Software",
+        "Supply Chain Management"
+      ]
+    },
+    {
+      "name": "CRED",
+      "country": "United Kingdom",
+      "sectors": [
+        "AI",
+        "B2B",
+        "CRM",
+        "Marketing Automation",
+        "Media and Entertainment",
+        "Predictive Analytics",
+        "SaaS",
+        "Sales Automation",
+        "Sports"
+      ]
+    },
+    {
+      "name": "Cognigy",
+      "country": "Germany",
+      "sectors": [
+        "AI",
+        "Chatbot",
+        "Generative AI",
+        "IT Infrastructure",
+        "IT Management",
+        "SaaS",
+        "Sales Automation",
+        "Small and Medium Businesses",
+        "Software"
+      ]
+    },
+    {
+      "name": "Cognite",
+      "country": "Norway",
+      "sectors": [
+        "AI",
+        "Industrial Automation",
+        "ML",
+        "SaaS"
+      ]
+    },
+    {
+      "name": "Colektia",
+      "country": "Chile",
+      "sectors": [
+        "AI",
+        "Debt Collections",
+        "Financial Services",
+        "FinTech",
+        "Social Impact",
+        "Software"
+      ]
+    },
+    {
+      "name": "CuspAI",
+      "country": "United Kingdom",
+      "sectors": [
+        "AI",
+        "Chemical"
+      ]
+    },
+    {
+      "name": "DataCrunch.io",
+      "country": "Finland",
+      "sectors": [
+        "AI",
+        "ML",
+        "Software"
+      ]
+    },
+    {
+      "name": "DeepL",
+      "country": "Germany",
+      "sectors": [
+        "AI",
+        "Generative AI",
+        "Software",
+        "Translation Service"
+      ]
+    },
+    {
+      "name": "DeepSeek",
+      "country": "China",
+      "sectors": [
+        "AI",
+        "Developer APIs",
+        "Generative AI",
+        "ML"
+      ]
+    },
+    {
+      "name": "EchoX",
+      "country": "Taiwan",
+      "sectors": [
+        "AI",
+        "Software",
+        "Web3"
+      ]
+    },
+    {
+      "name": "Egg",
+      "country": "Argentina",
+      "sectors": [
+        "AI",
+        "E-Learning",
+        "EdTech",
+        "Education"
+      ]
+    },
+    {
+      "name": "ElevenLabs",
+      "country": "United States",
+      "sectors": [
+        "AI",
+        "Content Creators",
+        "Developer APIs",
+        "Generative AI"
+      ]
+    },
+    {
+      "name": "Enter",
+      "country": "Brazil",
+      "sectors": [
+        "AI",
+        "Legal Tech",
+        "Software"
+      ]
+    },
+    {
+      "name": "Feedzai",
+      "country": "Portugal",
+      "sectors": [
+        "Analytics",
+        "AI",
+        "FinTech",
+        "Fraud Detection"
+      ]
+    },
+    {
+      "name": "Fetcherr",
+      "country": "Israel",
+      "sectors": [
+        "Air Transportation",
+        "AI",
+        "ML",
+        "Travel"
+      ]
+    },
+    {
+      "name": "Figure",
+      "country": "United States",
+      "sectors": [
+        "AI",
+        "RPA",
+        "Robotics"
+      ]
+    },
+    {
+      "name": "Flox",
+      "country": "Sweden",
+      "sectors": [
+        "AI",
+        "Generative AI",
+        "Software",
+        "Wildlife Conservation"
+      ]
+    },
+    {
+      "name": "FuriosaAI",
+      "country": "South Korea",
+      "sectors": [
+        "Analytics",
+        "AI",
+        "Big Data",
+        "Hardware",
+        "Semiconductor"
+      ]
+    },
+    {
+      "name": "Haut.AI",
+      "country": "Estonia",
+      "sectors": [
+        "AI",
+        "Beauty",
+        "Cosmetics",
+        "E-Commerce",
+        "ML",
+        "Retail",
+        "SaaS",
+        "Software"
+      ]
+    },
+    {
+      "name": "Heidi Health",
+      "country": "Australia",
+      "sectors": [
+        "AI",
+        "E-Learning",
+        "Health Care",
+        "Primary and Urgent Care",
+        "Software",
+        "Subscription Service"
+      ]
+    },
+    {
+      "name": "Helsing",
+      "country": "Germany",
+      "sectors": [
+        "AI",
+        "Drones",
+        "Military",
+        "Software"
+      ]
+    },
+    {
+      "name": "Howie",
+      "country": "Austria",
+      "sectors": [
+        "Architecture",
+        "AI",
+        "Civil Engineering",
+        "Construction",
+        "Real Estate",
+        "Software"
+      ]
+    },
+    {
+      "name": "I-care Group",
+      "country": "Belgium",
+      "sectors": [
+        "AI",
+        "Industrial",
+        "IoT",
+        "Predictive Analytics",
+        "SaaS",
+        "Software"
+      ]
+    },
+    {
+      "name": "IFS",
+      "country": "Sweden",
+      "sectors": [
+        "AI",
+        "Asset Management",
+        "ERP",
+        "Enterprise Software",
+        "Software"
+      ]
+    },
+    {
+      "name": "Isaacus",
+      "country": "Australia",
+      "sectors": [
+        "AI",
+        "Legal",
+        "Legal Tech",
+        "ML",
+        "SaaS"
+      ]
+    },
+    {
+      "name": "Legora",
+      "country": "Sweden",
+      "sectors": [
+        "AI",
+        "Legal",
+        "Legal Tech",
+        "Software"
+      ]
+    },
+    {
+      "name": "Lexroom.ai",
+      "country": "Italy",
+      "sectors": [
+        "AI",
+        "Legal"
+      ]
+    },
+    {
+      "name": "Lovable",
+      "country": "Sweden",
+      "sectors": [
+        "AI",
+        "Developer Platform",
+        "Developer Tools",
+        "Software"
+      ]
+    },
+    {
+      "name": "Manatal",
+      "country": "Thailand",
+      "sectors": [
+        "AI",
+        "ML",
+        "SaaS"
+      ]
+    },
+    {
+      "name": "Manus AI",
+      "country": "Singapore",
+      "sectors": [
+        "AI"
+      ]
+    },
+    {
+      "name": "Marloo",
+      "country": "New Zealand",
+      "sectors": [
+        "AI",
+        "Financial Services",
+        "FinTech"
+      ]
+    },
+    {
+      "name": "Meey Land Group Joint Stock Company",
+      "country": "Vietnam",
+      "sectors": [
+        "AI",
+        "Real Estate"
+      ]
+    },
+    {
+      "name": "MetAI",
+      "country": "Taiwan",
+      "sectors": [
+        "Analytics",
+        "AI"
+      ]
+    },
+    {
+      "name": "MiniMax",
+      "country": "Singapore",
+      "sectors": [
+        "Apps",
+        "AI",
+        "Generative AI",
+        "Software"
+      ]
+    },
+    {
+      "name": "Mistral AI",
+      "country": "France",
+      "sectors": [
+        "AI",
+        "Generative AI",
+        "ML",
+        "NLP",
+        "Open Source"
+      ]
+    },
+    {
+      "name": "Molecule.one",
+      "country": "Poland",
+      "sectors": [
+        "AI",
+        "Pharmaceutical",
+        "Software"
+      ]
+    },
+    {
+      "name": "Moonshot AI",
+      "country": "China",
+      "sectors": [
+        "AI",
+        "Generative AI",
+        "ML",
+        "Software"
+      ]
+    },
+    {
+      "name": "Moonvalley",
+      "country": "Canada",
+      "sectors": [
+        "AI",
+        "Software",
+        "Video"
+      ]
+    },
+    {
+      "name": "Multiverse Computing",
+      "country": "Spain",
+      "sectors": [
+        "AI",
+        "ML",
+        "Quantum Computing",
+        "Software"
+      ]
+    },
+    {
+      "name": "Neko Health",
+      "country": "Sweden",
+      "sectors": [
+        "AI",
+        "Health Care",
+        "Hospital"
+      ]
+    },
+    {
+      "name": "Noma Security",
+      "country": "Israel",
+      "sectors": [
+        "AI",
+        "Cyber Security",
+        "Network Security",
+        "Security"
+      ]
+    },
+    {
+      "name": "Nory",
+      "country": "Ireland",
+      "sectors": [
+        "AI",
+        "Hospitality",
+        "Restaurants"
+      ]
+    },
+    {
+      "name": "Nota AI",
+      "country": "South Korea",
+      "sectors": [
+        "AI",
+        "Software"
+      ]
+    },
+    {
+      "name": "Nscale",
+      "country": "United Kingdom",
+      "sectors": [
+        "AI",
+        "GPU",
+        "Telecommunications"
+      ]
+    },
+    {
+      "name": "OpenAI",
+      "country": "United States",
+      "sectors": [
+        "AI",
+        "Generative AI",
+        "ML",
+        "NLP",
+        "SaaS"
+      ]
+    },
+    {
+      "name": "Oriongo",
+      "country": "Taiwan",
+      "sectors": [
+        "Air Transportation",
+        "AI",
+        "Consulting",
+        "Industrial",
+        "Information Services",
+        "IoT",
+        "Manufacturing",
+        "Medical",
+        "Software"
+      ]
+    },
+    {
+      "name": "Parloa",
+      "country": "Germany",
+      "sectors": [
+        "AI",
+        "Chatbot",
+        "Generative AI",
+        "SaaS",
+        "Software",
+        "Telecommunications"
+      ]
+    },
+    {
+      "name": "Perplexity",
+      "country": "United States",
+      "sectors": [
+        "AI",
+        "Chatbot",
+        "Generative AI",
+        "ML",
+        "NLP",
+        "Search Engine"
+      ]
+    },
+    {
+      "name": "PopChill",
+      "country": "Taiwan",
+      "sectors": [
+        "AI",
+        "E-Commerce",
+        "Fashion",
+        "Marketplace"
+      ]
+    },
+    {
+      "name": "Qodo",
+      "country": "Israel",
+      "sectors": [
+        "AI",
+        "Generative AI",
+        "ML",
+        "Software",
+        "Web Development"
+      ]
+    },
+    {
+      "name": "Quantum Systems",
+      "country": "Germany",
+      "sectors": [
+        "Aerospace",
+        "AI",
+        "Drones",
+        "Government",
+        "Manufacturing",
+        "Mapping Services"
+      ]
+    },
+    {
+      "name": "Rebellions",
+      "country": "South Korea",
+      "sectors": [
+        "AI",
+        "Hardware",
+        "Manufacturing",
+        "Semiconductor"
+      ]
+    },
+    {
+      "name": "Relevance AI",
+      "country": "Australia",
+      "sectors": [
+        "Analytics",
+        "AI",
+        "Generative AI",
+        "ML",
+        "Software"
+      ]
+    },
+    {
+      "name": "Remuner",
+      "country": "Spain",
+      "sectors": [
+        "AI",
+        "SaaS",
+        "Sales",
+        "Sales Automation",
+        "Software"
+      ]
+    },
+    {
+      "name": "Replit",
+      "country": "United States",
+      "sectors": [
+        "AI",
+        "Cloud Computing",
+        "Developer Tools",
+        "SaaS",
+        "Software"
+      ]
+    },
+    {
+      "name": "Rocket",
+      "country": "India",
+      "sectors": [
+        "AI",
+        "EDA",
+        "Generative AI",
+        "Mobile Apps",
+        "Software",
+        "Web Development"
+      ]
+    },
+    {
+      "name": "Sakana AI",
+      "country": "Japan",
+      "sectors": [
+        "AI",
+        "Generative AI"
+      ]
+    },
+    {
+      "name": "Sana",
+      "country": "Sweden",
+      "sectors": [
+        "AI",
+        "Developer Tools",
+        "Enterprise Software",
+        "Innovation Management"
+      ]
+    },
+    {
+      "name": "Seedtag",
+      "country": "Spain",
+      "sectors": [
+        "Advertising",
+        "AI",
+        "Digital Marketing",
+        "ML"
+      ]
+    },
+    {
+      "name": "Shengshu Technology",
+      "country": "China",
+      "sectors": [
+        "AI",
+        "Generative AI"
+      ]
+    },
+    {
+      "name": "Signal AI",
+      "country": "United Kingdom",
+      "sectors": [
+        "AI",
+        "Business Intelligence",
+        "Enterprise Software",
+        "ML"
+      ]
+    },
+    {
+      "name": "Spacely AI",
+      "country": "Thailand",
+      "sectors": [
+        "Architecture",
+        "AI",
+        "CAD",
+        "Generative AI",
+        "Interior Design",
+        "PropTech",
+        "Real Estate",
+        "Real Estate Brokerage"
+      ]
+    },
+    {
+      "name": "SylloTips",
+      "country": "Italy",
+      "sectors": [
+        "AI",
+        "B2B",
+        "Enterprise Software",
+        "Knowledge Management",
+        "ML",
+        "SaaS",
+        "Software"
+      ]
+    },
+    {
+      "name": "Synerise",
+      "country": "Poland",
+      "sectors": [
+        "Analytics",
+        "AI",
+        "Business Intelligence",
+        "ML",
+        "Marketing Automation",
+        "Predictive Analytics",
+        "Software"
+      ]
+    },
+    {
+      "name": "TechWolf",
+      "country": "Belgium",
+      "sectors": [
+        "AI",
+        "Human Resources",
+        "NLP"
+      ]
+    },
+    {
+      "name": "Unbabel",
+      "country": "Portugal",
+      "sectors": [
+        "AI",
+        "B2B",
+        "ML",
+        "NLP",
+        "Software",
+        "Translation Service"
+      ]
+    },
+    {
+      "name": "Upstage",
+      "country": "South Korea",
+      "sectors": [
+        "AI",
+        "ML",
+        "NLP",
+        "Predictive Analytics",
+        "Software"
+      ]
+    },
+    {
+      "name": "Veriff",
+      "country": "Estonia",
+      "sectors": [
+        "AI",
+        "Cyber Security",
+        "Fraud Detection",
+        "Identity Management"
+      ]
+    },
+    {
+      "name": "Vocal Image",
+      "country": "Estonia",
+      "sectors": [
+        "AI",
+        "EdTech",
+        "ML"
+      ]
+    },
+    {
+      "name": "Zhipu AI",
+      "country": "China",
+      "sectors": [
+        "AI",
+        "Data Integration",
+        "ML",
+        "Software"
+      ]
+    },
+    {
+      "name": "blackshark.ai",
+      "country": "Austria",
+      "sectors": [
+        "AI",
+        "Autonomous Vehicles",
+        "Cloud Computing",
+        "Computer Vision",
+        "Geospatial",
+        "Government",
+        "ML",
+        "Mapping Services",
+        "Simulation",
+        "Smart Cities"
+      ]
+    },
+    {
+      "name": "mypaperwork.ai",
+      "country": "Austria",
+      "sectors": [
+        "AI",
+        "Software"
+      ]
+    },
+    {
+      "name": "n8n",
+      "country": "Germany",
+      "sectors": [
+        "AI",
+        "Enterprise Software",
+        "SaaS"
+      ]
+    },
+    {
+      "name": "neptune.ai",
+      "country": "Poland",
+      "sectors": [
+        "Analytics",
+        "AI",
+        "Software"
+      ]
+    },
+    {
+      "name": "xAI",
+      "country": "United States",
+      "sectors": [
+        "AI",
+        "Generative AI",
+        "ML"
+      ]
+    }
+  ],
+  "Q4": [
+    {
+      "country": "Argentina",
+      "sector": "Biotechnology",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 25720200,
+      "average_reported_amount": 12860100.0
+    },
+    {
+      "country": "Argentina",
+      "sector": "Credit Cards",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 1012000000,
+      "average_reported_amount": 506000000.0
+    },
+    {
+      "country": "Argentina",
+      "sector": "FinTech",
+      "currency_label": "$",
+      "startups_count": 4,
+      "known_funding_count": 4,
+      "total_reported_amount": 1063000000,
+      "average_reported_amount": 265750000.0
+    },
+    {
+      "country": "Argentina",
+      "sector": "Financial Services",
+      "currency_label": "$",
+      "startups_count": 3,
+      "known_funding_count": 3,
+      "total_reported_amount": 1032000000,
+      "average_reported_amount": 344000000.0
+    },
+    {
+      "country": "Argentina",
+      "sector": "Payments",
+      "currency_label": "$",
+      "startups_count": 3,
+      "known_funding_count": 3,
+      "total_reported_amount": 961000000,
+      "average_reported_amount": 320333333.33
+    },
+    {
+      "country": "Australia",
+      "sector": "AI",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 133600000,
+      "average_reported_amount": 66800000.0
+    },
+    {
+      "country": "Australia",
+      "sector": "Software",
+      "currency_label": "$",
+      "startups_count": 5,
+      "known_funding_count": 5,
+      "total_reported_amount": 3044000000,
+      "average_reported_amount": 608800000.0
+    },
+    {
+      "country": "Austria",
+      "sector": "AI",
+      "currency_label": "$",
+      "startups_count": 3,
+      "known_funding_count": 3,
+      "total_reported_amount": 36100000,
+      "average_reported_amount": 12033333.33
+    },
+    {
+      "country": "Austria",
+      "sector": "Construction",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 6800000,
+      "average_reported_amount": 3400000.0
+    },
+    {
+      "country": "Austria",
+      "sector": "Marketplace",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 94700000,
+      "average_reported_amount": 47350000.0
+    },
+    {
+      "country": "Austria",
+      "sector": "Real Estate",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 6800000,
+      "average_reported_amount": 3400000.0
+    },
+    {
+      "country": "Austria",
+      "sector": "Software",
+      "currency_label": "$",
+      "startups_count": 5,
+      "known_funding_count": 5,
+      "total_reported_amount": 73200000,
+      "average_reported_amount": 14640000.0
+    },
+    {
+      "country": "Austria",
+      "sector": "Wearables",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 118400000,
+      "average_reported_amount": 59200000.0
+    },
+    {
+      "country": "Belgium",
+      "sector": "AI",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 120000000,
+      "average_reported_amount": 60000000.0
+    },
+    {
+      "country": "Belgium",
+      "sector": "Analytics",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 344500000,
+      "average_reported_amount": 172250000.0
+    },
+    {
+      "country": "Belgium",
+      "sector": "Predictive Analytics",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 249400000,
+      "average_reported_amount": 124700000.0
+    },
+    {
+      "country": "Belgium",
+      "sector": "SaaS",
+      "currency_label": "$",
+      "startups_count": 3,
+      "known_funding_count": 3,
+      "total_reported_amount": 251200000,
+      "average_reported_amount": 83733333.33
+    },
+    {
+      "country": "Belgium",
+      "sector": "Software",
+      "currency_label": "$",
+      "startups_count": 5,
+      "known_funding_count": 5,
+      "total_reported_amount": 1533500000,
+      "average_reported_amount": 306700000.0
+    },
+    {
+      "country": "Belgium",
+      "sector": "Training",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 186800000,
+      "average_reported_amount": 93400000.0
+    },
+    {
+      "country": "Brazil",
+      "sector": "AI",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 65000000,
+      "average_reported_amount": 32500000.0
+    },
+    {
+      "country": "Brazil",
+      "sector": "Billing",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 678900000,
+      "average_reported_amount": 339450000.0
+    },
+    {
+      "country": "Brazil",
+      "sector": "FinTech",
+      "currency_label": "$",
+      "startups_count": 4,
+      "known_funding_count": 4,
+      "total_reported_amount": 1193500000,
+      "average_reported_amount": 298375000.0
+    },
+    {
+      "country": "Brazil",
+      "sector": "FinTech",
+      "currency_label": "R$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 725000000,
+      "average_reported_amount": 362500000.0
+    },
+    {
+      "country": "Brazil",
+      "sector": "Financial Services",
+      "currency_label": "$",
+      "startups_count": 4,
+      "known_funding_count": 4,
+      "total_reported_amount": 857500000,
+      "average_reported_amount": 214375000.0
+    },
+    {
+      "country": "Brazil",
+      "sector": "Financial Services",
+      "currency_label": "R$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 725000000,
+      "average_reported_amount": 362500000.0
+    },
+    {
+      "country": "Brazil",
+      "sector": "Payments",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 678900000,
+      "average_reported_amount": 339450000.0
+    },
+    {
+      "country": "Brazil",
+      "sector": "Software",
+      "currency_label": "$",
+      "startups_count": 4,
+      "known_funding_count": 4,
+      "total_reported_amount": 544300000,
+      "average_reported_amount": 136075000.0
+    },
+    {
+      "country": "Canada",
+      "sector": "AI",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 346500000,
+      "average_reported_amount": 173250000.0
+    },
+    {
+      "country": "Canada",
+      "sector": "Aerospace",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 185200000,
+      "average_reported_amount": 92600000.0
+    },
+    {
+      "country": "Canada",
+      "sector": "Big Data",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 1204500000,
+      "average_reported_amount": 602250000.0
+    },
+    {
+      "country": "Canada",
+      "sector": "ML",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 729000000,
+      "average_reported_amount": 364500000.0
+    },
+    {
+      "country": "Canada",
+      "sector": "SaaS",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 726000000,
+      "average_reported_amount": 363000000.0
+    },
+    {
+      "country": "Canada",
+      "sector": "Software",
+      "currency_label": "$",
+      "startups_count": 4,
+      "known_funding_count": 4,
+      "total_reported_amount": 1241400000,
+      "average_reported_amount": 310350000.0
+    },
+    {
+      "country": "Chile",
+      "sector": "AI",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 15900000,
+      "average_reported_amount": 7950000.0
+    },
+    {
+      "country": "Chile",
+      "sector": "Energy",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 880000000,
+      "average_reported_amount": 440000000.0
+    },
+    {
+      "country": "Chile",
+      "sector": "Energy Management",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 880000000,
+      "average_reported_amount": 440000000.0
+    },
+    {
+      "country": "Chile",
+      "sector": "FinTech",
+      "currency_label": "$",
+      "startups_count": 3,
+      "known_funding_count": 3,
+      "total_reported_amount": 285100000,
+      "average_reported_amount": 95033333.33
+    },
+    {
+      "country": "Chile",
+      "sector": "Financial Services",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 80600000,
+      "average_reported_amount": 40300000.0
+    },
+    {
+      "country": "Chile",
+      "sector": "SaaS",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 177800000,
+      "average_reported_amount": 88900000.0
+    },
+    {
+      "country": "Chile",
+      "sector": "Software",
+      "currency_label": "$",
+      "startups_count": 3,
+      "known_funding_count": 3,
+      "total_reported_amount": 82400000,
+      "average_reported_amount": 27466666.67
+    },
+    {
+      "country": "Chile",
+      "sector": "Wellness",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 247300000,
+      "average_reported_amount": 123650000.0
+    },
+    {
+      "country": "China",
+      "sector": "AI",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 2800000000,
+      "average_reported_amount": 1400000000.0
+    },
+    {
+      "country": "China",
+      "sector": "AI",
+      "currency_label": "CN¥",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 1050000000,
+      "average_reported_amount": 525000000.0
+    },
+    {
+      "country": "China",
+      "sector": "Bitcoin",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 13000000,
+      "average_reported_amount": 6500000.0
+    },
+    {
+      "country": "China",
+      "sector": "ML",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 2800000000,
+      "average_reported_amount": 1400000000.0
+    },
+    {
+      "country": "China",
+      "sector": "Manufacturing",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 841700000,
+      "average_reported_amount": 420850000.0
+    },
+    {
+      "country": "China",
+      "sector": "Robotics",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 476200000,
+      "average_reported_amount": 238100000.0
+    },
+    {
+      "country": "China",
+      "sector": "Software",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 2800000000,
+      "average_reported_amount": 1400000000.0
+    },
+    {
+      "country": "Colombia",
+      "sector": "Consumer Goods",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 2665000000,
+      "average_reported_amount": 1332500000.0
+    },
+    {
+      "country": "Colombia",
+      "sector": "E-Commerce",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 2665000000,
+      "average_reported_amount": 1332500000.0
+    },
+    {
+      "country": "Colombia",
+      "sector": "FinTech",
+      "currency_label": "$",
+      "startups_count": 5,
+      "known_funding_count": 5,
+      "total_reported_amount": 1114300000,
+      "average_reported_amount": 222860000.0
+    },
+    {
+      "country": "Colombia",
+      "sector": "Financial Services",
+      "currency_label": "$",
+      "startups_count": 4,
+      "known_funding_count": 4,
+      "total_reported_amount": 1079300000,
+      "average_reported_amount": 269825000.0
+    },
+    {
+      "country": "Colombia",
+      "sector": "Payments",
+      "currency_label": "$",
+      "startups_count": 3,
+      "known_funding_count": 3,
+      "total_reported_amount": 872300000,
+      "average_reported_amount": 290766666.67
+    },
+    {
+      "country": "Colombia",
+      "sector": "Software",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 632800000,
+      "average_reported_amount": 316400000.0
+    },
+    {
+      "country": "Estonia",
+      "sector": "AI",
+      "currency_label": "$",
+      "startups_count": 3,
+      "known_funding_count": 3,
+      "total_reported_amount": 198800000,
+      "average_reported_amount": 66266666.67
+    },
+    {
+      "country": "Estonia",
+      "sector": "Cyber Security",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 194800000,
+      "average_reported_amount": 97400000.0
+    },
+    {
+      "country": "Estonia",
+      "sector": "Finance",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 32600000,
+      "average_reported_amount": 16300000.0
+    },
+    {
+      "country": "Estonia",
+      "sector": "Financial Services",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 32600000,
+      "average_reported_amount": 16300000.0
+    },
+    {
+      "country": "Estonia",
+      "sector": "ML",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 6500000,
+      "average_reported_amount": 3250000.0
+    },
+    {
+      "country": "Estonia",
+      "sector": "Renewable Energy",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 208700000,
+      "average_reported_amount": 104350000.0
+    },
+    {
+      "country": "Finland",
+      "sector": "Aerospace",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 593500000,
+      "average_reported_amount": 296750000.0
+    },
+    {
+      "country": "Finland",
+      "sector": "Hardware",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 740800000,
+      "average_reported_amount": 370400000.0
+    },
+    {
+      "country": "Finland",
+      "sector": "ML",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 893200000,
+      "average_reported_amount": 446600000.0
+    },
+    {
+      "country": "Finland",
+      "sector": "Product Design",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 899100000,
+      "average_reported_amount": 449550000.0
+    },
+    {
+      "country": "Finland",
+      "sector": "Satellite Communication",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 593500000,
+      "average_reported_amount": 296750000.0
+    },
+    {
+      "country": "Finland",
+      "sector": "Software",
+      "currency_label": "$",
+      "startups_count": 4,
+      "known_funding_count": 4,
+      "total_reported_amount": 1104900000,
+      "average_reported_amount": 276225000.0
+    },
+    {
+      "country": "France",
+      "sector": "Apps",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 132700000,
+      "average_reported_amount": 66350000.0
+    },
+    {
+      "country": "France",
+      "sector": "Biotechnology",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 137800000,
+      "average_reported_amount": 68900000.0
+    },
+    {
+      "country": "France",
+      "sector": "Consumer Electronics",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 217800000,
+      "average_reported_amount": 108900000.0
+    },
+    {
+      "country": "France",
+      "sector": "Manufacturing",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 178800000,
+      "average_reported_amount": 89400000.0
+    },
+    {
+      "country": "France",
+      "sector": "Software",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 132700000,
+      "average_reported_amount": 66350000.0
+    },
+    {
+      "country": "Germany",
+      "sector": "AI",
+      "currency_label": "$",
+      "startups_count": 6,
+      "known_funding_count": 6,
+      "total_reported_amount": 1859900000,
+      "average_reported_amount": 309983333.33
+    },
+    {
+      "country": "Germany",
+      "sector": "Chatbot",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 381000000,
+      "average_reported_amount": 190500000.0
+    },
+    {
+      "country": "Germany",
+      "sector": "Generative AI",
+      "currency_label": "$",
+      "startups_count": 4,
+      "known_funding_count": 4,
+      "total_reported_amount": 1231200000,
+      "average_reported_amount": 307800000.0
+    },
+    {
+      "country": "Germany",
+      "sector": "SaaS",
+      "currency_label": "$",
+      "startups_count": 3,
+      "known_funding_count": 3,
+      "total_reported_amount": 621300000,
+      "average_reported_amount": 207100000.0
+    },
+    {
+      "country": "Germany",
+      "sector": "Software",
+      "currency_label": "$",
+      "startups_count": 6,
+      "known_funding_count": 6,
+      "total_reported_amount": 1512500000,
+      "average_reported_amount": 252083333.33
+    },
+    {
+      "country": "India",
+      "sector": "Consulting",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 225500000,
+      "average_reported_amount": 112750000.0
+    },
+    {
+      "country": "India",
+      "sector": "Delivery",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 3700000000,
+      "average_reported_amount": 1850000000.0
+    },
+    {
+      "country": "India",
+      "sector": "E-Commerce",
+      "currency_label": "$",
+      "startups_count": 3,
+      "known_funding_count": 3,
+      "total_reported_amount": 4475300000,
+      "average_reported_amount": 1491766666.67
+    },
+    {
+      "country": "India",
+      "sector": "FinTech",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 339500000,
+      "average_reported_amount": 169750000.0
+    },
+    {
+      "country": "India",
+      "sector": "Finance",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 339500000,
+      "average_reported_amount": 169750000.0
+    },
+    {
+      "country": "India",
+      "sector": "Financial Services",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 339500000,
+      "average_reported_amount": 169750000.0
+    },
+    {
+      "country": "India",
+      "sector": "Grocery",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 3700000000,
+      "average_reported_amount": 1850000000.0
+    },
+    {
+      "country": "India",
+      "sector": "Mobile Apps",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 851200000,
+      "average_reported_amount": 425600000.0
+    },
+    {
+      "country": "India",
+      "sector": "Software",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 195800000,
+      "average_reported_amount": 97900000.0
+    },
+    {
+      "country": "India",
+      "sector": "Transportation",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 985400000,
+      "average_reported_amount": 492700000.0
+    },
+    {
+      "country": "Indonesia",
+      "sector": "B2B",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 336300000,
+      "average_reported_amount": 168150000.0
+    },
+    {
+      "country": "Indonesia",
+      "sector": "FinTech",
+      "currency_label": "$",
+      "startups_count": 6,
+      "known_funding_count": 6,
+      "total_reported_amount": 2056300000,
+      "average_reported_amount": 342716666.67
+    },
+    {
+      "country": "Indonesia",
+      "sector": "Finance",
+      "currency_label": "$",
+      "startups_count": 3,
+      "known_funding_count": 3,
+      "total_reported_amount": 1138200000,
+      "average_reported_amount": 379400000.0
+    },
+    {
+      "country": "Indonesia",
+      "sector": "Financial Services",
+      "currency_label": "$",
+      "startups_count": 8,
+      "known_funding_count": 8,
+      "total_reported_amount": 2136400000,
+      "average_reported_amount": 267050000.0
+    },
+    {
+      "country": "Indonesia",
+      "sector": "InsurTech",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 625500000,
+      "average_reported_amount": 312750000.0
+    },
+    {
+      "country": "Indonesia",
+      "sector": "Lending",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 696900000,
+      "average_reported_amount": 348450000.0
+    },
+    {
+      "country": "Indonesia",
+      "sector": "Mobile Apps",
+      "currency_label": "$",
+      "startups_count": 3,
+      "known_funding_count": 3,
+      "total_reported_amount": 1017200000,
+      "average_reported_amount": 339066666.67
+    },
+    {
+      "country": "Indonesia",
+      "sector": "Payments",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 1089200000,
+      "average_reported_amount": 544600000.0
+    },
+    {
+      "country": "Ireland",
+      "sector": "Apps",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 272400000,
+      "average_reported_amount": 136200000.0
+    },
+    {
+      "country": "Ireland",
+      "sector": "FinTech",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 25400000,
+      "average_reported_amount": 12700000.0
+    },
+    {
+      "country": "Ireland",
+      "sector": "Financial Services",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 25400000,
+      "average_reported_amount": 12700000.0
+    },
+    {
+      "country": "Israel",
+      "sector": "AI",
+      "currency_label": "$",
+      "startups_count": 4,
+      "known_funding_count": 4,
+      "total_reported_amount": 753100000,
+      "average_reported_amount": 188275000.0
+    },
+    {
+      "country": "Israel",
+      "sector": "Cyber Security",
+      "currency_label": "$",
+      "startups_count": 3,
+      "known_funding_count": 3,
+      "total_reported_amount": 220000000,
+      "average_reported_amount": 73333333.33
+    },
+    {
+      "country": "Israel",
+      "sector": "ML",
+      "currency_label": "$",
+      "startups_count": 3,
+      "known_funding_count": 3,
+      "total_reported_amount": 621100000,
+      "average_reported_amount": 207033333.33
+    },
+    {
+      "country": "Israel",
+      "sector": "SaaS",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 123500000,
+      "average_reported_amount": 61750000.0
+    },
+    {
+      "country": "Israel",
+      "sector": "Software",
+      "currency_label": "$",
+      "startups_count": 4,
+      "known_funding_count": 4,
+      "total_reported_amount": 239100000,
+      "average_reported_amount": 59775000.0
+    },
+    {
+      "country": "Italy",
+      "sector": "AI",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 27300000,
+      "average_reported_amount": 13650000.0
+    },
+    {
+      "country": "Italy",
+      "sector": "Legal",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 2721700000,
+      "average_reported_amount": 1360850000.0
+    },
+    {
+      "country": "Italy",
+      "sector": "Software",
+      "currency_label": "$",
+      "startups_count": 5,
+      "known_funding_count": 5,
+      "total_reported_amount": 7048600000,
+      "average_reported_amount": 1409720000.0
+    },
+    {
+      "country": "Malaysia",
+      "sector": "FinTech",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 271000000,
+      "average_reported_amount": 135500000.0
+    },
+    {
+      "country": "Malaysia",
+      "sector": "Finance",
+      "currency_label": "$",
+      "startups_count": 3,
+      "known_funding_count": 3,
+      "total_reported_amount": 4871000000,
+      "average_reported_amount": 1623666666.67
+    },
+    {
+      "country": "Malaysia",
+      "sector": "Financial Services",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 4627600000,
+      "average_reported_amount": 2313800000.0
+    },
+    {
+      "country": "Malaysia",
+      "sector": "Mobile Payments",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 285900000,
+      "average_reported_amount": 142950000.0
+    },
+    {
+      "country": "Mexico",
+      "sector": "FinTech",
+      "currency_label": "$",
+      "startups_count": 4,
+      "known_funding_count": 4,
+      "total_reported_amount": 1016600000,
+      "average_reported_amount": 254150000.0
+    },
+    {
+      "country": "Mexico",
+      "sector": "Financial Services",
+      "currency_label": "$",
+      "startups_count": 3,
+      "known_funding_count": 3,
+      "total_reported_amount": 995100000,
+      "average_reported_amount": 331700000.0
+    },
+    {
+      "country": "Netherlands",
+      "sector": "Banking",
+      "currency_label": "€",
+      "startups_count": 3,
+      "known_funding_count": 3,
+      "total_reported_amount": 873900000,
+      "average_reported_amount": 291300000.0
+    },
+    {
+      "country": "Netherlands",
+      "sector": "FinTech",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 447500000,
+      "average_reported_amount": 223750000.0
+    },
+    {
+      "country": "Netherlands",
+      "sector": "FinTech",
+      "currency_label": "€",
+      "startups_count": 3,
+      "known_funding_count": 3,
+      "total_reported_amount": 873900000,
+      "average_reported_amount": 291300000.0
+    },
+    {
+      "country": "Netherlands",
+      "sector": "Financial Services",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 447500000,
+      "average_reported_amount": 223750000.0
+    },
+    {
+      "country": "Netherlands",
+      "sector": "Financial Services",
+      "currency_label": "€",
+      "startups_count": 3,
+      "known_funding_count": 3,
+      "total_reported_amount": 873900000,
+      "average_reported_amount": 291300000.0
+    },
+    {
+      "country": "Netherlands",
+      "sector": "SaaS",
+      "currency_label": "€",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 507000000,
+      "average_reported_amount": 253500000.0
+    },
+    {
+      "country": "Netherlands",
+      "sector": "Software",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 364200000,
+      "average_reported_amount": 182100000.0
+    },
+    {
+      "country": "Netherlands",
+      "sector": "Software",
+      "currency_label": "€",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 507000000,
+      "average_reported_amount": 253500000.0
+    },
+    {
+      "country": "New Zealand",
+      "sector": "Agriculture",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 252100000,
+      "average_reported_amount": 126050000.0
+    },
+    {
+      "country": "New Zealand",
+      "sector": "Biotechnology",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 69600000,
+      "average_reported_amount": 34800000.0
+    },
+    {
+      "country": "New Zealand",
+      "sector": "Manufacturing",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 215100000,
+      "average_reported_amount": 107550000.0
+    },
+    {
+      "country": "New Zealand",
+      "sector": "Software",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 209500000,
+      "average_reported_amount": 104750000.0
+    },
+    {
+      "country": "New Zealand",
+      "sector": "Software",
+      "currency_label": null,
+      "startups_count": 3,
+      "known_funding_count": 0,
+      "total_reported_amount": null,
+      "average_reported_amount": null
+    },
+    {
+      "country": "Norway",
+      "sector": "AI",
+      "currency_label": "$",
+      "startups_count": 3,
+      "known_funding_count": 3,
+      "total_reported_amount": 519700000,
+      "average_reported_amount": 173233333.33
+    },
+    {
+      "country": "Norway",
+      "sector": "AgTech",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 90200000,
+      "average_reported_amount": 45100000.0
+    },
+    {
+      "country": "Norway",
+      "sector": "Agriculture",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 90200000,
+      "average_reported_amount": 45100000.0
+    },
+    {
+      "country": "Norway",
+      "sector": "Analytics",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 243300000,
+      "average_reported_amount": 121650000.0
+    },
+    {
+      "country": "Norway",
+      "sector": "Industrial Automation",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 3138200000,
+      "average_reported_amount": 1569100000.0
+    },
+    {
+      "country": "Norway",
+      "sector": "ML",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 383200000,
+      "average_reported_amount": 191600000.0
+    },
+    {
+      "country": "Norway",
+      "sector": "Robotics",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 170400000,
+      "average_reported_amount": 85200000.0
+    },
+    {
+      "country": "Norway",
+      "sector": "SaaS",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 502100000,
+      "average_reported_amount": 251050000.0
+    },
+    {
+      "country": "Norway",
+      "sector": "Software",
+      "currency_label": "$",
+      "startups_count": 3,
+      "known_funding_count": 3,
+      "total_reported_amount": 312900000,
+      "average_reported_amount": 104300000.0
+    },
+    {
+      "country": "Philippines",
+      "sector": "Banking",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 738300000,
+      "average_reported_amount": 369150000.0
+    },
+    {
+      "country": "Philippines",
+      "sector": "FinTech",
+      "currency_label": "$",
+      "startups_count": 5,
+      "known_funding_count": 5,
+      "total_reported_amount": 1518600000,
+      "average_reported_amount": 303720000.0
+    },
+    {
+      "country": "Philippines",
+      "sector": "Finance",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 1446300000,
+      "average_reported_amount": 723150000.0
+    },
+    {
+      "country": "Philippines",
+      "sector": "Financial Services",
+      "currency_label": "$",
+      "startups_count": 5,
+      "known_funding_count": 5,
+      "total_reported_amount": 1518600000,
+      "average_reported_amount": 303720000.0
+    },
+    {
+      "country": "Philippines",
+      "sector": "Payments",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 858300000,
+      "average_reported_amount": 429150000.0
+    },
+    {
+      "country": "Poland",
+      "sector": "AI",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 18700000,
+      "average_reported_amount": 9350000.0
+    },
+    {
+      "country": "Poland",
+      "sector": "Blockchain",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 156800000,
+      "average_reported_amount": 78400000.0
+    },
+    {
+      "country": "Poland",
+      "sector": "Cryptocurrency",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 156800000,
+      "average_reported_amount": 78400000.0
+    },
+    {
+      "country": "Poland",
+      "sector": "Software",
+      "currency_label": "$",
+      "startups_count": 6,
+      "known_funding_count": 6,
+      "total_reported_amount": 394600000,
+      "average_reported_amount": 65766666.67
+    },
+    {
+      "country": "Portugal",
+      "sector": "AI",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 443700000,
+      "average_reported_amount": 221850000.0
+    },
+    {
+      "country": "Portugal",
+      "sector": "FinTech",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 529300000,
+      "average_reported_amount": 264650000.0
+    },
+    {
+      "country": "Portugal",
+      "sector": "Finance",
+      "currency_label": "$",
+      "startups_count": 3,
+      "known_funding_count": 3,
+      "total_reported_amount": 698300000,
+      "average_reported_amount": 232766666.67
+    },
+    {
+      "country": "Portugal",
+      "sector": "Financial Services",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 521500000,
+      "average_reported_amount": 260750000.0
+    },
+    {
+      "country": "Portugal",
+      "sector": "Software",
+      "currency_label": "$",
+      "startups_count": 4,
+      "known_funding_count": 4,
+      "total_reported_amount": 769200000,
+      "average_reported_amount": 192300000.0
+    },
+    {
+      "country": "Singapore",
+      "sector": "AI",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 1285000000,
+      "average_reported_amount": 642500000.0
+    },
+    {
+      "country": "Singapore",
+      "sector": "Blockchain",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 121500000,
+      "average_reported_amount": 60750000.0
+    },
+    {
+      "country": "Singapore",
+      "sector": "Cryptocurrency",
+      "currency_label": "$",
+      "startups_count": 3,
+      "known_funding_count": 3,
+      "total_reported_amount": 141500000,
+      "average_reported_amount": 47166666.67
+    },
+    {
+      "country": "Singapore",
+      "sector": "FinTech",
+      "currency_label": "$",
+      "startups_count": 5,
+      "known_funding_count": 5,
+      "total_reported_amount": 2879700000,
+      "average_reported_amount": 575940000.0
+    },
+    {
+      "country": "Singapore",
+      "sector": "Finance",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 1538000000,
+      "average_reported_amount": 769000000.0
+    },
+    {
+      "country": "Singapore",
+      "sector": "Financial Services",
+      "currency_label": "$",
+      "startups_count": 6,
+      "known_funding_count": 6,
+      "total_reported_amount": 2899700000,
+      "average_reported_amount": 483283333.33
+    },
+    {
+      "country": "Singapore",
+      "sector": "Payments",
+      "currency_label": "$",
+      "startups_count": 3,
+      "known_funding_count": 3,
+      "total_reported_amount": 1890000000,
+      "average_reported_amount": 630000000.0
+    },
+    {
+      "country": "Singapore",
+      "sector": "Software",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 1288200000,
+      "average_reported_amount": 644100000.0
+    },
+    {
+      "country": "Singapore",
+      "sector": "Trading Platform",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 53300000,
+      "average_reported_amount": 26650000.0
+    },
+    {
+      "country": "South Korea",
+      "sector": "AI",
+      "currency_label": "$",
+      "startups_count": 3,
+      "known_funding_count": 3,
+      "total_reported_amount": 669400000,
+      "average_reported_amount": 223133333.33
+    },
+    {
+      "country": "South Korea",
+      "sector": "Financial Services",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 1619200000,
+      "average_reported_amount": 809600000.0
+    },
+    {
+      "country": "South Korea",
+      "sector": "Manufacturing",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 6057700000,
+      "average_reported_amount": 3028850000.0
+    },
+    {
+      "country": "South Korea",
+      "sector": "Software",
+      "currency_label": "$",
+      "startups_count": 3,
+      "known_funding_count": 3,
+      "total_reported_amount": 340500000,
+      "average_reported_amount": 113500000.0
+    },
+    {
+      "country": "Spain",
+      "sector": "AI",
+      "currency_label": "$",
+      "startups_count": 3,
+      "known_funding_count": 3,
+      "total_reported_amount": 654300000,
+      "average_reported_amount": 218100000.0
+    },
+    {
+      "country": "Spain",
+      "sector": "ML",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 645500000,
+      "average_reported_amount": 322750000.0
+    },
+    {
+      "country": "Spain",
+      "sector": "Software",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 353100000,
+      "average_reported_amount": 176550000.0
+    },
+    {
+      "country": "Sweden",
+      "sector": "AI",
+      "currency_label": "$",
+      "startups_count": 5,
+      "known_funding_count": 5,
+      "total_reported_amount": 803000000,
+      "average_reported_amount": 160600000.0
+    },
+    {
+      "country": "Sweden",
+      "sector": "Developer Tools",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 359500000,
+      "average_reported_amount": 179750000.0
+    },
+    {
+      "country": "Sweden",
+      "sector": "Electric Vehicle",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 753800000,
+      "average_reported_amount": 376900000.0
+    },
+    {
+      "country": "Sweden",
+      "sector": "Software",
+      "currency_label": "$",
+      "startups_count": 5,
+      "known_funding_count": 5,
+      "total_reported_amount": 352400000,
+      "average_reported_amount": 70480000.0
+    },
+    {
+      "country": "Switzerland",
+      "sector": "Robotics",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 333400000,
+      "average_reported_amount": 166700000.0
+    },
+    {
+      "country": "Switzerland",
+      "sector": "Software",
+      "currency_label": "$",
+      "startups_count": 3,
+      "known_funding_count": 3,
+      "total_reported_amount": 1327700000,
+      "average_reported_amount": 442566666.67
+    },
+    {
+      "country": "Taiwan",
+      "sector": "AI",
+      "currency_label": "$",
+      "startups_count": 3,
+      "known_funding_count": 3,
+      "total_reported_amount": 20700000,
+      "average_reported_amount": 6900000.0
+    },
+    {
+      "country": "Taiwan",
+      "sector": "Consumer Electronics",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 688100000,
+      "average_reported_amount": 344050000.0
+    },
+    {
+      "country": "Taiwan",
+      "sector": "IoT",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 149900000,
+      "average_reported_amount": 74950000.0
+    },
+    {
+      "country": "Taiwan",
+      "sector": "Manufacturing",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 542500000,
+      "average_reported_amount": 271250000.0
+    },
+    {
+      "country": "Thailand",
+      "sector": "AI",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 6100000,
+      "average_reported_amount": 3050000.0
+    },
+    {
+      "country": "Thailand",
+      "sector": "E-Commerce",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 499500000,
+      "average_reported_amount": 249750000.0
+    },
+    {
+      "country": "Thailand",
+      "sector": "FinTech",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 480200000,
+      "average_reported_amount": 240100000.0
+    },
+    {
+      "country": "Thailand",
+      "sector": "Financial Services",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 480200000,
+      "average_reported_amount": 240100000.0
+    },
+    {
+      "country": "United Kingdom",
+      "sector": "AI",
+      "currency_label": "$",
+      "startups_count": 5,
+      "known_funding_count": 5,
+      "total_reported_amount": 2062800000,
+      "average_reported_amount": 412560000.0
+    },
+    {
+      "country": "United Kingdom",
+      "sector": "Banking",
+      "currency_label": "$",
+      "startups_count": 3,
+      "known_funding_count": 3,
+      "total_reported_amount": 2475300000,
+      "average_reported_amount": 825100000.0
+    },
+    {
+      "country": "United Kingdom",
+      "sector": "CRM",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 131200000,
+      "average_reported_amount": 65600000.0
+    },
+    {
+      "country": "United Kingdom",
+      "sector": "Credit",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 675300000,
+      "average_reported_amount": 337650000.0
+    },
+    {
+      "country": "United Kingdom",
+      "sector": "FinTech",
+      "currency_label": "$",
+      "startups_count": 4,
+      "known_funding_count": 4,
+      "total_reported_amount": 4275300000,
+      "average_reported_amount": 1068825000.0
+    },
+    {
+      "country": "United Kingdom",
+      "sector": "Financial Services",
+      "currency_label": "$",
+      "startups_count": 3,
+      "known_funding_count": 3,
+      "total_reported_amount": 2475300000,
+      "average_reported_amount": 825100000.0
+    },
+    {
+      "country": "United Kingdom",
+      "sector": "Payments",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 2033100000,
+      "average_reported_amount": 1016550000.0
+    },
+    {
+      "country": "United Kingdom",
+      "sector": "SaaS",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 131200000,
+      "average_reported_amount": 65600000.0
+    },
+    {
+      "country": "United States",
+      "sector": "AI",
+      "currency_label": "$",
+      "startups_count": 7,
+      "known_funding_count": 7,
+      "total_reported_amount": 138553000000,
+      "average_reported_amount": 19793285714.29
+    },
+    {
+      "country": "United States",
+      "sector": "Cryptocurrency",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 1124000000,
+      "average_reported_amount": 562000000.0
+    },
+    {
+      "country": "United States",
+      "sector": "FinTech",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 10400000000,
+      "average_reported_amount": 5200000000.0
+    },
+    {
+      "country": "United States",
+      "sector": "Generative AI",
+      "currency_label": "$",
+      "startups_count": 5,
+      "known_funding_count": 5,
+      "total_reported_amount": 136181000000,
+      "average_reported_amount": 27236200000.0
+    },
+    {
+      "country": "United States",
+      "sector": "ML",
+      "currency_label": "$",
+      "startups_count": 4,
+      "known_funding_count": 4,
+      "total_reported_amount": 135900000000,
+      "average_reported_amount": 33975000000.0
+    },
+    {
+      "country": "United States",
+      "sector": "Mobile Payments",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 10400000000,
+      "average_reported_amount": 5200000000.0
+    },
+    {
+      "country": "United States",
+      "sector": "NLP",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 79500000000,
+      "average_reported_amount": 39750000000.0
+    },
+    {
+      "country": "United States",
+      "sector": "SaaS",
+      "currency_label": "$",
+      "startups_count": 3,
+      "known_funding_count": 3,
+      "total_reported_amount": 87872000000,
+      "average_reported_amount": 29290666666.67
+    },
+    {
+      "country": "Vietnam",
+      "sector": "AI",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 99300000,
+      "average_reported_amount": 49650000.0
+    },
+    {
+      "country": "Vietnam",
+      "sector": "CleanTech",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 50400000,
+      "average_reported_amount": 25200000.0
+    },
+    {
+      "country": "Vietnam",
+      "sector": "E-Commerce",
+      "currency_label": "$",
+      "startups_count": 3,
+      "known_funding_count": 3,
+      "total_reported_amount": 1032600000,
+      "average_reported_amount": 344200000.0
+    },
+    {
+      "country": "Vietnam",
+      "sector": "Finance",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 8100000,
+      "average_reported_amount": 4050000.0
+    },
+    {
+      "country": "Vietnam",
+      "sector": "Shopping",
+      "currency_label": "$",
+      "startups_count": 2,
+      "known_funding_count": 2,
+      "total_reported_amount": 482600000,
+      "average_reported_amount": 241300000.0
+    }
+  ],
+  "Q5": [
+    {
+      "country": "Argentina",
+      "currency_label": "$",
+      "funding_rank": 1,
+      "name": "Ualá",
+      "amount": 910000000
+    },
+    {
+      "country": "Argentina",
+      "currency_label": "$",
+      "funding_rank": 2,
+      "name": "Pomelo",
+      "amount": 102000000
+    },
+    {
+      "country": "Argentina",
+      "currency_label": "$",
+      "funding_rank": 3,
+      "name": "Tapi",
+      "amount": 31000000
+    },
+    {
+      "country": "Australia",
+      "currency_label": "$",
+      "funding_rank": 1,
+      "name": "Canva",
+      "amount": 2500000000
+    },
+    {
+      "country": "Australia",
+      "currency_label": "$",
+      "funding_rank": 2,
+      "name": "Employment Hero",
+      "amount": 521500000
+    },
+    {
+      "country": "Australia",
+      "currency_label": "$",
+      "funding_rank": 3,
+      "name": "Immutable Systems",
+      "amount": 277400000
+    },
+    {
+      "country": "Australia",
+      "currency_label": "A$",
+      "funding_rank": 1,
+      "name": "ROLLER",
+      "amount": 121800000
+    },
+    {
+      "country": "Australia",
+      "currency_label": "A$",
+      "funding_rank": 2,
+      "name": "Isaacus",
+      "amount": 700000
+    },
+    {
+      "country": "Austria",
+      "currency_label": "$",
+      "funding_rank": 1,
+      "name": "Therme Group",
+      "amount": 565000000
+    },
+    {
+      "country": "Austria",
+      "currency_label": "$",
+      "funding_rank": 2,
+      "name": "Bitpanda",
+      "amount": 554000000
+    },
+    {
+      "country": "Austria",
+      "currency_label": "$",
+      "funding_rank": 3,
+      "name": "USound",
+      "amount": 80700000
+    },
+    {
+      "country": "Belgium",
+      "currency_label": "$",
+      "funding_rank": 1,
+      "name": "Odoo",
+      "amount": 1100000000
+    },
+    {
+      "country": "Belgium",
+      "currency_label": "$",
+      "funding_rank": 2,
+      "name": "Kpler",
+      "amount": 185000000
+    },
+    {
+      "country": "Belgium",
+      "currency_label": "$",
+      "funding_rank": 3,
+      "name": "Showpad",
+      "amount": 159500000
+    },
+    {
+      "country": "Brazil",
+      "currency_label": "$",
+      "funding_rank": 1,
+      "name": "Clara",
+      "amount": 492000000
+    },
+    {
+      "country": "Brazil",
+      "currency_label": "$",
+      "funding_rank": 2,
+      "name": "Mercado Pago",
+      "amount": 466000000
+    },
+    {
+      "country": "Brazil",
+      "currency_label": "$",
+      "funding_rank": 3,
+      "name": "Omie",
+      "amount": 295800000
+    },
+    {
+      "country": "Brazil",
+      "currency_label": "R$",
+      "funding_rank": 1,
+      "name": "Nomad",
+      "amount": 590000000
+    },
+    {
+      "country": "Brazil",
+      "currency_label": "R$",
+      "funding_rank": 2,
+      "name": "Hashdex",
+      "amount": 135000000
+    },
+    {
+      "country": "Canada",
+      "currency_label": "$",
+      "funding_rank": 1,
+      "name": "Hopper",
+      "amount": 729700000
+    },
+    {
+      "country": "Canada",
+      "currency_label": "$",
+      "funding_rank": 2,
+      "name": "StackAdapt",
+      "amount": 536600000
+    },
+    {
+      "country": "Canada",
+      "currency_label": "$",
+      "funding_rank": 3,
+      "name": "Assent",
+      "amount": 533600000
+    },
+    {
+      "country": "Chile",
+      "currency_label": "$",
+      "funding_rank": 1,
+      "name": "HIF Global",
+      "amount": 480000000
+    },
+    {
+      "country": "Chile",
+      "currency_label": "$",
+      "funding_rank": 2,
+      "name": "Engie Energia Chile",
+      "amount": 400000000
+    },
+    {
+      "country": "Chile",
+      "currency_label": "$",
+      "funding_rank": 3,
+      "name": "Betterfly",
+      "amount": 204500000
+    },
+    {
+      "country": "China",
+      "currency_label": "$",
+      "funding_rank": 1,
+      "name": "Moonshot AI",
+      "amount": 1600000000
+    },
+    {
+      "country": "China",
+      "currency_label": "$",
+      "funding_rank": 2,
+      "name": "Zhipu AI",
+      "amount": 1200000000
+    },
+    {
+      "country": "China",
+      "currency_label": "$",
+      "funding_rank": 3,
+      "name": "Xiaohongshu",
+      "amount": 917700000
+    },
+    {
+      "country": "China",
+      "currency_label": "CN¥",
+      "funding_rank": 1,
+      "name": "Agibot",
+      "amount": 600000000
+    },
+    {
+      "country": "China",
+      "currency_label": "CN¥",
+      "funding_rank": 2,
+      "name": "Shengshu Technology",
+      "amount": 450000000
+    },
+    {
+      "country": "Colombia",
+      "currency_label": "$",
+      "funding_rank": 1,
+      "name": "Rappi",
+      "amount": 2600000000
+    },
+    {
+      "country": "Colombia",
+      "currency_label": "$",
+      "funding_rank": 2,
+      "name": "Addi",
+      "amount": 717300000
+    },
+    {
+      "country": "Colombia",
+      "currency_label": "$",
+      "funding_rank": 3,
+      "name": "Habi",
+      "amount": 597800000
+    },
+    {
+      "country": "Estonia",
+      "currency_label": "$",
+      "funding_rank": 1,
+      "name": "Bolt",
+      "amount": 2300000000
+    },
+    {
+      "country": "Estonia",
+      "currency_label": "$",
+      "funding_rank": 2,
+      "name": "Veriff",
+      "amount": 192300000
+    },
+    {
+      "country": "Estonia",
+      "currency_label": "$",
+      "funding_rank": 3,
+      "name": "Elcogen",
+      "amount": 145000000
+    },
+    {
+      "country": "Finland",
+      "currency_label": "$",
+      "funding_rank": 1,
+      "name": "MuniFin",
+      "amount": 4700000000
+    },
+    {
+      "country": "Finland",
+      "currency_label": "$",
+      "funding_rank": 2,
+      "name": "RELEX Solutions",
+      "amount": 814600000
+    },
+    {
+      "country": "Finland",
+      "currency_label": "$",
+      "funding_rank": 3,
+      "name": "Oura",
+      "amount": 598300000
+    },
+    {
+      "country": "France",
+      "currency_label": "$",
+      "funding_rank": 1,
+      "name": "EcoVadis",
+      "amount": 735800000
+    },
+    {
+      "country": "France",
+      "currency_label": "$",
+      "funding_rank": 2,
+      "name": "Withings",
+      "amount": 115600000
+    },
+    {
+      "country": "France",
+      "currency_label": "$",
+      "funding_rank": 3,
+      "name": "Cailabs",
+      "amount": 102200000
+    },
+    {
+      "country": "France",
+      "currency_label": "€",
+      "funding_rank": 1,
+      "name": "Mistral AI",
+      "amount": 2800000000
+    },
+    {
+      "country": "France",
+      "currency_label": "€",
+      "funding_rank": 2,
+      "name": "Finary",
+      "amount": 37400000
+    },
+    {
+      "country": "Germany",
+      "currency_label": "$",
+      "funding_rank": 1,
+      "name": "GetYourGuide",
+      "amount": 1100000000
+    },
+    {
+      "country": "Germany",
+      "currency_label": "$",
+      "funding_rank": 2,
+      "name": "Black Forest Labs",
+      "amount": 450200000
+    },
+    {
+      "country": "Germany",
+      "currency_label": "$",
+      "funding_rank": 3,
+      "name": "DeepL",
+      "amount": 400000000
+    },
+    {
+      "country": "Germany",
+      "currency_label": "€",
+      "funding_rank": 1,
+      "name": "Helsing",
+      "amount": 1400000000
+    },
+    {
+      "country": "India",
+      "currency_label": "$",
+      "funding_rank": 1,
+      "name": "Zepto",
+      "amount": 2400000000
+    },
+    {
+      "country": "India",
+      "currency_label": "$",
+      "funding_rank": 2,
+      "name": "blinkit",
+      "amount": 1300000000
+    },
+    {
+      "country": "India",
+      "currency_label": "$",
+      "funding_rank": 3,
+      "name": "Rapido",
+      "amount": 825400000
+    },
+    {
+      "country": "Indonesia",
+      "currency_label": "$",
+      "funding_rank": 1,
+      "name": "DANA",
+      "amount": 554500000
+    },
+    {
+      "country": "Indonesia",
+      "currency_label": "$",
+      "funding_rank": 2,
+      "name": "Xendit",
+      "amount": 534700000
+    },
+    {
+      "country": "Indonesia",
+      "currency_label": "$",
+      "funding_rank": 3,
+      "name": "Amartha",
+      "amount": 431600000
+    },
+    {
+      "country": "Ireland",
+      "currency_label": "$",
+      "funding_rank": 1,
+      "name": "Wayflyer",
+      "amount": 1900000000
+    },
+    {
+      "country": "Ireland",
+      "currency_label": "$",
+      "funding_rank": 2,
+      "name": "TechMet",
+      "amount": 551500000
+    },
+    {
+      "country": "Ireland",
+      "currency_label": "$",
+      "funding_rank": 3,
+      "name": "Tines",
+      "amount": 271200000
+    },
+    {
+      "country": "Israel",
+      "currency_label": "$",
+      "funding_rank": 1,
+      "name": "Aidoc",
+      "amount": 414000000
+    },
+    {
+      "country": "Israel",
+      "currency_label": "$",
+      "funding_rank": 2,
+      "name": "Fetcherr",
+      "amount": 156500000
+    },
+    {
+      "country": "Israel",
+      "currency_label": "$",
+      "funding_rank": 3,
+      "name": "Noma Security",
+      "amount": 132000000
+    },
+    {
+      "country": "Italy",
+      "currency_label": "$",
+      "funding_rank": 1,
+      "name": "Bending Spoons",
+      "amount": 4200000000
+    },
+    {
+      "country": "Italy",
+      "currency_label": "$",
+      "funding_rank": 2,
+      "name": "TeamSystem",
+      "amount": 2700000000
+    },
+    {
+      "country": "Italy",
+      "currency_label": "$",
+      "funding_rank": 3,
+      "name": "NextChem",
+      "amount": 187500000
+    },
+    {
+      "country": "Japan",
+      "currency_label": "$",
+      "funding_rank": 1,
+      "name": "Tier IV",
+      "amount": 457800000
+    },
+    {
+      "country": "Japan",
+      "currency_label": "$",
+      "funding_rank": 2,
+      "name": "Sakana AI",
+      "amount": 100000000
+    },
+    {
+      "country": "Japan",
+      "currency_label": "$",
+      "funding_rank": 3,
+      "name": "Thirdverse",
+      "amount": 48600000
+    },
+    {
+      "country": "Japan",
+      "currency_label": "¥",
+      "funding_rank": 1,
+      "name": "PayPay",
+      "amount": 53500000000
+    },
+    {
+      "country": "Japan",
+      "currency_label": "¥",
+      "funding_rank": 2,
+      "name": "FromSoftware",
+      "amount": 36400000000
+    },
+    {
+      "country": "Japan",
+      "currency_label": "¥",
+      "funding_rank": 3,
+      "name": "SkyDrive",
+      "amount": 26400000000
+    },
+    {
+      "country": "Malaysia",
+      "currency_label": "$",
+      "funding_rank": 1,
+      "name": "International Islamic Liquidity Management Corporation",
+      "amount": 4600000000
+    },
+    {
+      "country": "Malaysia",
+      "currency_label": "$",
+      "funding_rank": 2,
+      "name": "Carsome",
+      "amount": 643700000
+    },
+    {
+      "country": "Malaysia",
+      "currency_label": "$",
+      "funding_rank": 3,
+      "name": "TNG Digital",
+      "amount": 243400000
+    },
+    {
+      "country": "Mexico",
+      "currency_label": "$",
+      "funding_rank": 1,
+      "name": "Kapital",
+      "amount": 471100000
+    },
+    {
+      "country": "Mexico",
+      "currency_label": "$",
+      "funding_rank": 2,
+      "name": "Plata",
+      "amount": 435000000
+    },
+    {
+      "country": "Mexico",
+      "currency_label": "$",
+      "funding_rank": 3,
+      "name": "VEMO",
+      "amount": 373300000
+    },
+    {
+      "country": "Netherlands",
+      "currency_label": "$",
+      "funding_rank": 1,
+      "name": "Finom",
+      "amount": 307500000
+    },
+    {
+      "country": "Netherlands",
+      "currency_label": "$",
+      "funding_rank": 2,
+      "name": "Axelera AI",
+      "amount": 203200000
+    },
+    {
+      "country": "Netherlands",
+      "currency_label": "$",
+      "funding_rank": 3,
+      "name": "ViCentra",
+      "amount": 180900000
+    },
+    {
+      "country": "Netherlands",
+      "currency_label": "€",
+      "funding_rank": 1,
+      "name": "Mambu",
+      "amount": 387000000
+    },
+    {
+      "country": "Netherlands",
+      "currency_label": "€",
+      "funding_rank": 2,
+      "name": "bunq",
+      "amount": 366900000
+    },
+    {
+      "country": "Netherlands",
+      "currency_label": "€",
+      "funding_rank": 3,
+      "name": "Backbase",
+      "amount": 120000000
+    },
+    {
+      "country": "New Zealand",
+      "currency_label": "$",
+      "funding_rank": 1,
+      "name": "Halter",
+      "amount": 198800000
+    },
+    {
+      "country": "New Zealand",
+      "currency_label": "$",
+      "funding_rank": 2,
+      "name": "BioLumic",
+      "amount": 53300000
+    },
+    {
+      "country": "New Zealand",
+      "currency_label": "$",
+      "funding_rank": 3,
+      "name": "Pictor",
+      "amount": 16300000
+    },
+    {
+      "country": "Norway",
+      "currency_label": "$",
+      "funding_rank": 1,
+      "name": "AutoStore",
+      "amount": 2800000000
+    },
+    {
+      "country": "Norway",
+      "currency_label": "$",
+      "funding_rank": 2,
+      "name": "Cognite",
+      "amount": 338200000
+    },
+    {
+      "country": "Norway",
+      "currency_label": "$",
+      "funding_rank": 3,
+      "name": "Ardoq",
+      "amount": 163900000
+    },
+    {
+      "country": "Philippines",
+      "currency_label": "$",
+      "funding_rank": 1,
+      "name": "DITO Telecommunity",
+      "amount": 3900000000
+    },
+    {
+      "country": "Philippines",
+      "currency_label": "$",
+      "funding_rank": 2,
+      "name": "Mynt",
+      "amount": 1300000000
+    },
+    {
+      "country": "Philippines",
+      "currency_label": "$",
+      "funding_rank": 3,
+      "name": "Maya",
+      "amount": 712000000
+    },
+    {
+      "country": "Poland",
+      "currency_label": "$",
+      "funding_rank": 1,
+      "name": "Booksy",
+      "amount": 203800000
+    },
+    {
+      "country": "Poland",
+      "currency_label": "$",
+      "funding_rank": 2,
+      "name": "DocPlanner",
+      "amount": 140500000
+    },
+    {
+      "country": "Poland",
+      "currency_label": "$",
+      "funding_rank": 3,
+      "name": "Ramp Network",
+      "amount": 133900000
+    },
+    {
+      "country": "Poland",
+      "currency_label": "€",
+      "funding_rank": 1,
+      "name": "Synerise",
+      "amount": 50700000
+    },
+    {
+      "country": "Portugal",
+      "currency_label": "$",
+      "funding_rank": 1,
+      "name": "TEKEVER",
+      "amount": 630700000
+    },
+    {
+      "country": "Portugal",
+      "currency_label": "$",
+      "funding_rank": 2,
+      "name": "Novo Banco",
+      "amount": 500000000
+    },
+    {
+      "country": "Portugal",
+      "currency_label": "$",
+      "funding_rank": 3,
+      "name": "Feedzai",
+      "amount": 352500000
+    },
+    {
+      "country": "Singapore",
+      "currency_label": "$",
+      "funding_rank": 1,
+      "name": "Airwallex",
+      "amount": 1200000000
+    },
+    {
+      "country": "Singapore",
+      "currency_label": "$",
+      "funding_rank": 2,
+      "name": "MiniMax",
+      "amount": 1200000000
+    },
+    {
+      "country": "Singapore",
+      "currency_label": "$",
+      "funding_rank": 3,
+      "name": "bolttech",
+      "amount": 690200000
+    },
+    {
+      "country": "South Korea",
+      "currency_label": "$",
+      "funding_rank": 1,
+      "name": "SK on",
+      "amount": 5600000000
+    },
+    {
+      "country": "South Korea",
+      "currency_label": "$",
+      "funding_rank": 2,
+      "name": "Yanolja",
+      "amount": 2000000000
+    },
+    {
+      "country": "South Korea",
+      "currency_label": "$",
+      "funding_rank": 3,
+      "name": "Toss",
+      "amount": 1400000000
+    },
+    {
+      "country": "Spain",
+      "currency_label": "$",
+      "funding_rank": 1,
+      "name": "Zelestra",
+      "amount": 557700000
+    },
+    {
+      "country": "Spain",
+      "currency_label": "$",
+      "funding_rank": 2,
+      "name": "idealista",
+      "amount": 426000000
+    },
+    {
+      "country": "Spain",
+      "currency_label": "$",
+      "funding_rank": 3,
+      "name": "Multiverse Computing",
+      "amount": 344300000
+    },
+    {
+      "country": "Spain",
+      "currency_label": "€",
+      "funding_rank": 1,
+      "name": "ONUM",
+      "amount": 37400000
+    },
+    {
+      "country": "Sweden",
+      "currency_label": "$",
+      "funding_rank": 1,
+      "name": "Einride",
+      "amount": 752300000
+    },
+    {
+      "country": "Sweden",
+      "currency_label": "$",
+      "funding_rank": 2,
+      "name": "Epidemic Sound",
+      "amount": 508900000
+    },
+    {
+      "country": "Sweden",
+      "currency_label": "$",
+      "funding_rank": 3,
+      "name": "Neko Health",
+      "amount": 325100000
+    },
+    {
+      "country": "Sweden",
+      "currency_label": "€",
+      "funding_rank": 1,
+      "name": "IFS",
+      "amount": 3000000000
+    },
+    {
+      "country": "Switzerland",
+      "currency_label": "$",
+      "funding_rank": 1,
+      "name": "Climeworks",
+      "amount": 946100000
+    },
+    {
+      "country": "Switzerland",
+      "currency_label": "$",
+      "funding_rank": 2,
+      "name": "Acronis",
+      "amount": 658000000
+    },
+    {
+      "country": "Switzerland",
+      "currency_label": "$",
+      "funding_rank": 3,
+      "name": "Teylor",
+      "amount": 488700000
+    },
+    {
+      "country": "Taiwan",
+      "currency_label": "$",
+      "funding_rank": 1,
+      "name": "ProLogium Technology",
+      "amount": 537500000
+    },
+    {
+      "country": "Taiwan",
+      "currency_label": "$",
+      "funding_rank": 2,
+      "name": "Acer",
+      "amount": 150600000
+    },
+    {
+      "country": "Taiwan",
+      "currency_label": "$",
+      "funding_rank": 3,
+      "name": "TXOne Networks",
+      "amount": 144900000
+    },
+    {
+      "country": "Thailand",
+      "currency_label": "$",
+      "funding_rank": 1,
+      "name": "LINE MAN Wongnai",
+      "amount": 375000000
+    },
+    {
+      "country": "Thailand",
+      "currency_label": "$",
+      "funding_rank": 2,
+      "name": "Ascend Money",
+      "amount": 345000000
+    },
+    {
+      "country": "Thailand",
+      "currency_label": "$",
+      "funding_rank": 3,
+      "name": "T&B Media Global",
+      "amount": 300000000
+    },
+    {
+      "country": "United Kingdom",
+      "currency_label": "$",
+      "funding_rank": 1,
+      "name": "Checkout.com",
+      "amount": 1800000000
+    },
+    {
+      "country": "United Kingdom",
+      "currency_label": "$",
+      "funding_rank": 2,
+      "name": "Monzo",
+      "amount": 1800000000
+    },
+    {
+      "country": "United Kingdom",
+      "currency_label": "$",
+      "funding_rank": 3,
+      "name": "Nscale",
+      "amount": 1700000000
+    },
+    {
+      "country": "United States",
+      "currency_label": "$",
+      "funding_rank": 1,
+      "name": "OpenAI",
+      "amount": 78000000000
+    },
+    {
+      "country": "United States",
+      "currency_label": "$",
+      "funding_rank": 2,
+      "name": "Anthropic",
+      "amount": 33700000000
+    },
+    {
+      "country": "United States",
+      "currency_label": "$",
+      "funding_rank": 3,
+      "name": "xAI",
+      "amount": 22700000000
+    },
+    {
+      "country": "Vietnam",
+      "currency_label": "$",
+      "funding_rank": 1,
+      "name": "VNLIFE",
+      "amount": 550000000
+    },
+    {
+      "country": "Vietnam",
+      "currency_label": "$",
+      "funding_rank": 2,
+      "name": "Tiki",
+      "amount": 470500000
+    },
+    {
+      "country": "Vietnam",
+      "currency_label": "$",
+      "funding_rank": 3,
+      "name": "Meey Land Group Joint Stock Company",
+      "amount": 80000000
+    }
+  ]
+}
