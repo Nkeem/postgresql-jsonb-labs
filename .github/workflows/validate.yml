@@ -1,0 +1,49 @@
+name: Validate labs
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  postgres-jsonb:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    services:
+      postgres:
+        image: postgres:18
+        env:
+          POSTGRES_USER: postgres
+          POSTGRES_PASSWORD: postgres
+          POSTGRES_DB: postgres
+          LANG: C.UTF-8
+        ports:
+          - 55432:5432
+        options: >-
+          --health-cmd "pg_isready -U postgres -d postgres"
+          --health-interval 5s
+          --health-timeout 5s
+          --health-retries 12
+    env:
+      PGHOST: 127.0.0.1
+      PGPORT: '55432'
+      PGUSER: postgres
+      PGPASSWORD: postgres
+      PGDATABASE: demo
+      PYTHONUTF8: '1'
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+      - name: Install PostgreSQL client
+        run: sudo apt-get update && sudo apt-get install -y postgresql-client
+      - name: Prepare the verified 2017 demo snapshot
+        run: python scripts/prepare_demo.py
+      - name: Run both labs on a fresh database
+        run: python scripts/run_labs.py
+      - name: Verify full results and safe repeated runs
+        run: python scripts/verify_labs.py
