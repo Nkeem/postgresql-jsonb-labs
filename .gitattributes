@@ -1,0 +1,11 @@
+* text=auto
+*.py text eol=lf
+*.sql text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+# HTML hashes in source/manifest.json describe the original downloaded bytes.
+*.html -text
+*.pdf binary
+*.zip binary

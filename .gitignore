@@ -1,0 +1,27 @@
+# Local credentials and editor files
+.env
+.env.*
+!.env.example
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+desktop.ini
+~$*
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Downloaded demo database and local PostgreSQL state
+lab1/source/*.zip
+lab1/source/*.sql
+**/database/
+**/pgdata/
+*.log
+.work/
+
+# Intermediate report renders
+**/tmp/
